@@ -1,0 +1,12 @@
+{
+  "name": "bot.discord",
+  "version": "1.0.0",
+  "description": "On crée un robot discord et c'est marrant",
+  "main": "main.js",
+  "repository": "https://github.com/Joma246/Bot-discord.git",
+  "author": "Joma",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
